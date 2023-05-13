@@ -14,6 +14,7 @@ My interests lie in the fields of data science, data anaytics, deep learning, ma
 
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/tripathiadityaprakash/)
 - Website: [Visit my website](https://tripathiaditya.netlify.app/)
+- Twitter: [Follow me on Twitter](https://twitter.com/tripathiadityap)
 
 ### 📝 Writing and Sharing
 
