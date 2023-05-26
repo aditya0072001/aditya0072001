@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate data science and machine learnin
 
 ### 🌱 What I'm Currently Doing
 
-I am currently diving deep into the realms of data science, machine learning, and deep learning. Additionally, I am honing my skills in Flutter, a powerful framework for building cross-platform applications.
+I am currently diving deep into the realms of data science, data analytics, machine learning, and deep learning
 
 ### 👀 What I'm Interested In
 
